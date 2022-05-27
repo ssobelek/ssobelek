@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ssobelek
+- 👀 I’m interested in new Data Analytics tecnology.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: www.linkedin.com/in/samisobelek
